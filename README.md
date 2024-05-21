@@ -3,7 +3,7 @@ Example project for Godot for Coder Dojo
 
 Demo video : https://www.youtube.com/watch?v=yIHZFkv2POE
 
-## What is gogot ?
+## What is godot ?
 
 See: https://godotengine.org/
 
